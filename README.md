@@ -22,3 +22,7 @@
 
  5. The details of Rank based algorithm and its extensions are explained in the summary_generator.py file.
 
+
+##Tech
+  1. Python 
+  2. PyUniit 
