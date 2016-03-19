@@ -1,6 +1,6 @@
 
 
-# Summary Generator is a simple library to generate Highlighted Short reviews/ texts using NLP
+# Automatic Text Summarizer is a simple library to generate Highlighted Short reviews/ texts using NLP
 
 
 HOW TO USE FILES:
