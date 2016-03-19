@@ -5,7 +5,8 @@
 
 #Usage
 ----------------
- 1. Run below command from command line to generate review/doc summary
+ 1. Run below command from command line to generate review/doc summary.
+ 
  		 python summary_generator.py
 
  2. Add Reviews/content to be summarized into document.txt file
