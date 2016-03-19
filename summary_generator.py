@@ -4,7 +4,7 @@ import re
 
 # This is a simple text highlighting and summarization algorithm 
 # Created By :  PavanKumar PC
-# Date : October 31, 2014
+# Date : October 31, 2016
 
 
 """
