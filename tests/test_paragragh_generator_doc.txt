@@ -1,0 +1,3 @@
+Yelp uses automated software to recommend the most helpful and reliable reviews for the Yelp community among the millions we get. The software looks at dozens of different signals, including various measures of quality, reliability, and activity on Yelp. The process has nothing to do with whether a business advertises on Yelp or not. Learn more here.
+
+Yelp makes money by selling ads to local businesses - you'll see these clearly labeled "Yelp Ads" around the site.
