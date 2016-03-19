@@ -3,10 +3,10 @@
 # Automatic Text Summarizer is a simple library to generate Highlighted Short reviews/ texts using NLP
 
 
-HOW TO USE FILES:
-
+#Usage
+----------------
  1. Run below command from command line to generate review/doc summary
- 		python summary_generator.py
+ 		 python summary_generator.py
 
  2. Add Reviews/content to be summarized into document.txt file
 
