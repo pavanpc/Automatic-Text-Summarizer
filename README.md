@@ -3,7 +3,7 @@
 # Automatic Text Summarizer is a simple library to generate Highlighted Short reviews/ texts using NLP
 
 
-#Usage
+##Usage
 ----------------
  1. Add the content to be summarized into document.txt file.
  
